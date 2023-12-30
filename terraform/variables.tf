@@ -5,7 +5,7 @@ varaible "app_name" {
     default = "vendor-network"
 }
 
-variable "public_subnets {
+variable "public_subnets" {
     default = ["10.10.100.0/24", "10.10.101.0/24"]
 }
 
